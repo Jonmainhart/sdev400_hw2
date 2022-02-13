@@ -6,10 +6,10 @@ This assignment demonstrates successful creation and use of a DynamoDB table usi
 The application allows the user to create and populate a DynamoDB table, then query the table.
 
 ### Main Menu
-[Main Menu](/images/image004.png "Main menu")
+![Main Menu](/images/image004.png "Main menu")
 
 ### Table Creation
-[Table Creation](/images/image005.png "Table Creation")
+![Table Creation](/images/image005.png "Table Creation")
 
 ### Query
-[Query](/images/image008.png "Query")
+![Query](/images/image008.png "Query")
