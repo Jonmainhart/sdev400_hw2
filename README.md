@@ -13,3 +13,7 @@ The application allows the user to create and populate a DynamoDB table, then qu
 
 ### Query
 ![Query](/images/image008.png "Query")
+![Query](/images/image009.png "Query")
+![Query](/images/image010.png "Query")
+![Query](/images/image011.png "Query")
+![Query](/images/image016.png "Query")
